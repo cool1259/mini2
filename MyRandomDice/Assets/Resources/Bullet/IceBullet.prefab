@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4651964520300451776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7636240783235655141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 913489d1eb100ad4abd5bfa7b56faad0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myOwn: {fileID: 0}
+--- !u!1001 &931894448786149487
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7284468600731219338, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_Name
+      value: IceBullet
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.407
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.719568
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 27.618177
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689798476829053640, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6424147499374934230, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ca751ac99c5e0f04c91e3ce3911d6dde,
+        type: 3}
+    - target: {fileID: 6187309749029994316, guid: 9e75fba48edbf3542b7a928db290603c,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 9ac3c9797676e7447939d801b7598de9, type: 2}
+    m_RemovedComponents:
+    - {fileID: 4173816646230900312, guid: 9e75fba48edbf3542b7a928db290603c, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 9e75fba48edbf3542b7a928db290603c, type: 3}
+--- !u!1 &7636240783235655141 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7284468600731219338, guid: 9e75fba48edbf3542b7a928db290603c,
+    type: 3}
+  m_PrefabInstance: {fileID: 931894448786149487}
+  m_PrefabAsset: {fileID: 0}
